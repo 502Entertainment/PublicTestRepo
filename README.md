@@ -1,5 +1,7 @@
 # PublicTestRepo
-This is our PublicTestRepo
+This is our PublicTestRepo<br>
+(it is equal to a "hello world" one)
+
 
 It will stay empty for quite a while.. (maybe even for ever)<br>
 We will push applications for public testing etc. on this Organization soon.<br>
